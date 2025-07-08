@@ -4,6 +4,7 @@
   "description": "",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Mail.Activities": "2.0.11",
     "UiPath.System.Activities": "[25.4.4]"
   },
   "webServices": [],
