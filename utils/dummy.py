@@ -163,7 +163,7 @@ dummy_data = [
         ],
         "total_amount": 500000,
         "currency": "IDR",
-        "po_number": "",  
+        "po_number": "PO-1",  
         "payment_terms": "NET 15"
     },
 
