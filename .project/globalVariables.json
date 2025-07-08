@@ -1,0 +1,42 @@
+[
+  {
+    "Constant": false,
+    "Name": "Extracted_InvoiceDate",
+    "TypeFullyQualifiedName": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "Extracted_TotalAmount",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "Extracted_PONumber",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "Extracted_VendorID",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "Extracted_InvoiceNumber",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  }
+]

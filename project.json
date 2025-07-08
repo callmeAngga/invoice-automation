@@ -4,8 +4,14 @@
   "description": "",
   "main": "Main.xaml",
   "dependencies": {
+    "BotshelfAI.DocumentUnderstanding.Activities": "[1.0.0]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.34.1-preview]",
+    "UiPath.Excel.Activities": "[3.1.0-preview]",
+    "UiPath.GSuite.Activities": "[3.2.10]",
+    "UiPath.IntelligentOCR.Activities": "[6.25.1-preview]",
     "UiPath.Mail.Activities": "2.0.11",
-    "UiPath.System.Activities": "[25.4.4]"
+    "UiPath.OmniPage.Activities": "[1.21.0]",
+    "UiPath.System.Activities": "[25.6.0]"
   },
   "webServices": [],
   "entitiesStores": [],
